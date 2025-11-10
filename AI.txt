@@ -1,0 +1,17 @@
+Artificial Intelligence (AI) is the branch of computer science that focuses on creating machines or software that can think, learn, and make decisions like humans.
+
+In simple words — AI makes computers smart.
+It allows machines to understand, reason, learn from experience, and solve problems without being told exactly what to do step-by-step.
+
+
+Machine Learning (ML) – AI that learns from data.
+
+Deep Learning – uses neural networks (like the human brain).
+
+Natural Language Processing (NLP) – understands and generates human language (used in ChatGPT).
+
+Computer Vision – allows computers to “see” and interpret images or videos.
+
+Robotics – combines AI with machines to perform physical tasks.
+
+Expert Systems – AI that gives advice like a human expert.
